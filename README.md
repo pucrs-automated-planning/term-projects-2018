@@ -12,3 +12,18 @@ Repository for Term Project Material in 2018
 | 11h00     | TBD   | [Pedro Ballester](/ballester) | 
 | 11h15     | TBD   | [Raphael Baldi](/baldi) | 
 | 11h30     | TBD   | [Renan Maidana](/maidana) | 
+
+## Assessment Criteria
+
+### Part 1: Project presentation
+The first assessment grading criteria is as follows.
+
+- Application Domain Complexity (30%) - How complex the application domain you selected is difficult to model, yet realistically achievable within the course.
+- Paper readability (40%) - How well written the 2-page paper you wrote is, we break this down into the following criteria
+	- 20% - Introduction clarity: how well does the introduction answers these questions: what is the problem? why is it an important problem? how do aim to solve it? and what follows from your proposed solution?
+	- 10% - How well do you refer to background material and relate it your proposed application area?
+	- 10% - How detailed and realistically you plan the work for the rest of the semester?
+- Presentation clarity (30%) - How well you presented your project proposal, which we break down into three criteria
+	- 10% - Use of time during the presentation
+	- 10% - Slide quality (conciseness, use of figures, etc)
+	- 10% - Presentation organization
