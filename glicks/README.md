@@ -1,4 +1,4 @@
-# Pedro Ballester
+# Gabriel Licks
 
 ## Part 1
 
