@@ -11,7 +11,7 @@ Repository for Term Project Material in 2018
 | 10h45     | TBD   | [Gabriel Licks](/glicks) | 
 | 11h00     | Learning Search Heuristics by Graph Convolutional Networks   | [Pedro Ballester](/ballester) | 
 | 11h15     | Domain-independent image-based planning: results on the Atari video game   | [Raphael Baldi](/baldi) | 
-| 11h30     | TBD   | [Renan Maidana](/maidana) | 
+| 11h30     | Constrained Path Planning for Energy Efficiency in Mobile Robots   | [Renan Maidana](/maidana) | 
 
 ## Assessment Criteria
 
