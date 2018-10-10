@@ -1,9 +1,9 @@
-# Gabriel Licks
+# Pedro Ballester
 
 ## Part 1
 
-- [Short Paper](glicks-proposal.pdf)
-- [Presentation Slides](glicks-proposal-slides.pdf)
+- [Short Paper](ballester-proposal.pdf)
+- [Presentation Slides](ballester-proposal-slides.pdf)
 
 ## Part 2
 
