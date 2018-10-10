@@ -10,7 +10,7 @@ Repository for Term Project Material in 2018
 | 10h30     | TBD   | [Gabriel de Lima](/glima) | 
 | 10h45     | TBD   | [Gabriel Licks](/glicks) | 
 | 11h00     | Learning Search Heuristics by Graph Convolutional Networks   | [Pedro Ballester](/ballester) | 
-| 11h15     | TBD   | [Raphael Baldi](/baldi) | 
+| 11h15     | Domain independent image based planning: results on the Atari videogame   | [Raphael Baldi](/baldi) | 
 | 11h30     | TBD   | [Renan Maidana](/maidana) | 
 
 ## Assessment Criteria
