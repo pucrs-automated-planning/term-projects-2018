@@ -7,6 +7,6 @@
 
 ## Part 2
 
-- [Implementation](<link to github>)
+- [Implementation](https://github.com/raphaelbaldi/latplan-ale)
 - [Final paper](baldi-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2018)
 - [Final presentation slides](baldi-final-presentation-slides.pdf)
