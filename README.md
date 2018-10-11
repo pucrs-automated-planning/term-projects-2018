@@ -5,7 +5,7 @@ Repository for Term Project Material in 2018
 
 | Time Slot | Title | Presenter |
 | --------- | ----- | --------- |
-| 10h00     | TBD   | [Alexandre Ichida](/ichida) | 
+| 10h00     | Using Automatic Planning for Supply Chain Management   | [Alexandre Ichida](/ichida) | 
 | 10h15     | A COLREGs-Compliant Local Guidance System for Unmanned Surface Vehicles based on Hierarchical Task Network   | [Darlan Jurak](/jurak) | 
 | 10h30     | Finding State-Action Similarities in Tabular Reinforcement Learning Using Low-Dimensional Embeddings  | [Gabriel de Lima](/glima) | 
 | 10h45     | Reinforcement Learning for Database Indexing   | [Gabriel Licks](/glicks) | 
