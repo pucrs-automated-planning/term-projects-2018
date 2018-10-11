@@ -5,6 +5,11 @@
 - [Short Paper](glicks-proposal.pdf)
 - [Presentation Slides](glicks-proposal-slides.pdf)
 
+Suggestions for further work (possibly outside the scope of this course):
+
+- [ ] See if there is no quicker way to compute the benchmark (perhaps run a subset of it)
+- [ ] Run multiple databases in parallel
+
 ## Part 2
 
 - [Implementation](<link to github>)

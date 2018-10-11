@@ -5,6 +5,11 @@
 - [Short Paper](maidana-proposal.pdf)
 - [Presentation Slides](maidana-proposal-slides.pdf)
 
+Suggestions for further work (possibly outside the scope of this course):
+
+- [ ] What planner are you using? Where's the citation?
+- [ ] Is the actuation power source independent of the computing one?
+
 ## Part 2
 
 - [Implementation](<link to github>)

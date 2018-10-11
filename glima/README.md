@@ -5,6 +5,13 @@
 - [Short Paper](glima-proposal.pdf)
 - [Presentation Slides](glima-proposal-slides.pdf)
 
+Suggestions for further work (possibly outside the scope of this course):
+
+- [ ] Use a variational auto-encoder (VAE)
+- [ ] Consider using the embeddings as the index to the Q-table directly
+- [ ] Aggregate frames (optical flow)
+- [ ] Do not train the AE sequentially
+
 ## Part 2
 
 - [Implementation](<link to github>)

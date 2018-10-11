@@ -5,6 +5,11 @@
 - [Short Paper](baldi-proposal.pdf)
 - [Presentation Slides](baldi-proposal-slides.pdf)
 
+Suggestions for further work (possibly outside the scope of this course):
+
+- [ ] What other games could be used?
+- [ ] Look at disentanglement
+
 ## Part 2
 
 - [Implementation](https://github.com/raphaelbaldi/latplan-ale)
