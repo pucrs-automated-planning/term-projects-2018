@@ -28,3 +28,26 @@ The first assessment grading criteria is as follows.
 	- 10% - Use of time during the presentation
 	- 10% - Slide quality (conciseness, use of figures, etc)
 	- 10% - Presentation organization
+
+### Part 2: Project Report
+
+The second assessment grading criteria uses two main criteria
+First, the technical form of the project
+
+- Application Domain Complexity (15%) - How complex the application domain you selected is difficult to model, yet realistically achievable within the course.
+- Domain Modelling (15%) - How close to the underlying domain is the planning model developed in the project? Are the proposed simplifications justified? What is the tradeoff of these simplifications?
+- Problem Complexity (15%) - How complex are the problem instances used in the experimentation? Are these instances computationally challenging or are they just toy problems?
+- Formalism Appropriateness (15%) - Is the selected formalism (Classical Planning of various types, HTN planning, reinforcement learning) appropriate for the selected domain? Is this selection justified?
+
+Second, the report describing the project and its results
+
+- Report Clarity (10%): Is the report clearly written, following the guidelines for part 1
+- Report Problem Description (15%): Does the report describe the problem being addressed with enough detail that it can be replicated?
+- Report Implementation (15%): Does the report describe the solution both technically and theoretically in a way that allows others to replicate it?
+
+### Part 3: Final Presentation
+The same criteria for the project presentation applies to the final presentation, with the following weights
+
+- 30% - Use of time during the presentation
+- 30% - Slide quality (conciseness, use of figures, etc)
+- 40% - Presentation organization
