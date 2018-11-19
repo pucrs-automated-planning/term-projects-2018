@@ -12,6 +12,6 @@ Suggestions for further work (possibly outside the scope of this course):
 
 ## Part 2
 
-- [Implementation](<link to github>)
+- [Implementation](https://github.com/gabrielplicks/indexing_agent)
 - [Final paper](glicks-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2018)
 - [Final presentation slides](glicks-final-presentation-slides.pdf)
