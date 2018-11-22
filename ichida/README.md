@@ -13,6 +13,6 @@ Suggestions for further work (possibly outside the scope of this course):
 
 ## Part 2
 
-- [Implementation](<link to github>)
+- [Implementation](https://github.com/yukioichida/supply-chain-planning)
 - [Final paper](ichida-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2018)
 - [Final presentation slides](ichida-final-presentation-slides.pdf)
