@@ -11,6 +11,6 @@ Suggestions for further work (possibly outside the scope of this course):
 
 ## Part 2
 
-- [Implementation](<link to github>)
+- [Implementation](https://github.com/Automated-Planning/jshop2.git)
 - [Final paper](jurak-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2018)
 - [Final presentation slides](jurak-final-presentation-slides.pdf)
