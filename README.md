@@ -1,6 +1,18 @@
 # term-projects-2018
 Repository for Term Project Material in 2018
 
+## Presentation Schedule -- Final Presentation (Room 516)
+
+| Time Slot | Title | Presenter |
+| --------- | ----- | --------- |
+| 9h10     | Using Automatic Planning for Supply Chain Management   | [Alexandre Ichida](/ichida) | 
+| 9h35     | A COLREGs-Compliant Local Guidance System for Unmanned Surface Vehicles based on Hierarchical Task Network   | [Darlan Jurak](/jurak) | 
+| 9h55     | Finding State-Action Similarities in Tabular Reinforcement Learning Using Low-Dimensional Embeddings  | [Gabriel de Lima](/glima) | 
+| 10h20     | Reinforcement Learning for Database Indexing   | [Gabriel Licks](/glicks) | 
+| 10h45     | Learning Search Heuristics by Graph Convolutional Networks   | [Pedro Ballester](/ballester) | 
+| 11h10     | Domain-independent image-based planning: results on the Atari video game   | [Raphael Baldi](/baldi) | 
+| 11h35     | Constrained Path Planning for Energy Efficiency in Mobile Robots   | [Renan Maidana](/maidana) |
+
 ## Presentation Schedule -- Proposals
 
 | Time Slot | Title | Presenter |
